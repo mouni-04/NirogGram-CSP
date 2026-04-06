@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433369996153",
+    "project_id": "niroggram-238bd",
+    "storage_bucket": "niroggram-238bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433369996153:android:091ac5aea5d8c773a3eda8",
+        "android_client_info": {
+          "package_name": "com.example.nirogramapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3fLqQqUVhNad97ZwyxOW4cgKMMc8QE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
